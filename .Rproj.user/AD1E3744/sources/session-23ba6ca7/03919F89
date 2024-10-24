@@ -3,7 +3,7 @@
     "path": "D:/Working with softwares/r/plumber/plumber_shiny/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "236403724",
+    "hash": "721102305",
     "contents": "",
     "dirty": false,
     "created": 1729793300179.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,140",
+        "cursorPosition": "0,4",
         "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1729793483,
+    "lastKnownWriteTime": 1729793794,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1729793483137,
+    "last_content_update": 1729793794705,
     "read_only": false,
     "read_only_alternatives": []
 }
